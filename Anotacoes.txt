@@ -1,0 +1,10 @@
+
+
+git init -> inicia o git na pasta
+
+git add * -> passa todos os arquivos para ser commitados
+
+git commit -m ""-> entre as "" insira a anotacao para o commit
+
+git clone ... -> nos ... insira o link para receber os arquivos do github
+
