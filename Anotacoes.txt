@@ -8,6 +8,6 @@ git commit -m ""-> entre as "" insira a anotacao para o commit
 
 git clone ... -> nos ... insira o link para receber os arquivos do github
 
-git
+git push origin ... -> insira o nome que esta, geralmente main ou master
 
 
